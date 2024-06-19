@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto de Aprendizaje</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Proyecto de Aprendizaje</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#teoria">Base Teórica</a></li>
+            <li><a href="#practicas">Mejores Prácticas</a></li>
+        </ul>
+    </nav>
+    <section id="teoria">
+        <h2>Base Teórica</h2>
+        <article>
+            <h3>1. Introducción a la arquitectura y diseño del software</h3>
+            <p>
+                <strong>Metodologías de desarrollo de software:</strong> Explicación de las diferentes metodologías, como Waterfall, Agile, Scrum, etc.<br>
+                <strong>Arquitectura y diseño de software:</strong> Importancia y conceptos básicos.<br>
+                <strong>Arquitectura lógica y física de un sistema software:</strong> Diferencias y ejemplos.<br>
+                <strong>Rol de los patrones de diseño en el diseño del software:</strong> Ejemplos de patrones de diseño como Singleton, Factory, Observer, etc.<br>
+                <strong>Arquitectura y diseño del software en metodologías clásicas y ágiles:</strong> Comparaciones y casos de uso.
+            </p>
+        </article>
+        <!-- Añadir más secciones siguiendo el mismo formato -->
+    </section>
+    <section id="practicas">
+        <h2>Resultados de mejores prácticas</h2>
+        <article>
+            <h3>Planteamiento y diseño del software utilizando arquitecturas en capas y orientada a objetos</h3>
+            <p>Descripción de las mejores prácticas.</p>
+        </article>
+        <!-- Añadir más secciones siguiendo el mismo formato -->
+    </section>
+    <footer>
+        <p>&copy; 2024 Tu Nombre</p>
+    </footer>
+</body>
+</html>
